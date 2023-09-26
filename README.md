@@ -2,7 +2,7 @@
 
 📚 I am a lifelong learner who is always seeking new knowledge and experiences. I hold a Bachelor of Commerce and a Master of Business Analytics, both from the University of Melbourne. Now I am studying a Juris Doctor part-time at the Melbourne Law School.
 
-💼 After graduation, I worked at a Big 4 accounting firm but discovered my passion for data and am now working as a Data Science Analyst.
+💼 After graduation, I worked at a Big 4 accounting firm but discovered my passion for data and am now working as a Data Analyst.
 
 🔍 I am constantly exploring new technologies and tools in the field of data science and love finding innovative solutions to complex problems.
 
